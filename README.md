@@ -33,8 +33,30 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-* Omni Finance Data Engine
-* Market Clustering (GMM & PCA & Network Analysis)
-* Return Prediction (RF, XGBoost, Monte Carlo)
+### 🚀 Omni Finance Data Engine
+
+End-to-end financial data pipeline and machine learning system.
+
+### 🚀 portfolio.optimization
+
+- Portfolio optimization (Max Sharpe, Minimum Variance)  
+- Efficient frontier construction using quadratic programming  
+- Computation of portfolio metrics (Sharpe, Treynor, Beta, Risk)  
+- Implemented with quadprog and CVXR  
+
+---
+
+## 📦 R Packages
+
+### 🚀 portfolio.optimization
+
+* Portfolio optimization (Max Sharpe, Minimum Variance)
+* Built with quadprog and CVXR
+* Focus on numerical stability
+
+### ⏳ timeless
+
+- Parallel ARIMA grid search using multi-core processing  
+- Model selection based on AIC, BIC and Ljung-Box diagnostics  
