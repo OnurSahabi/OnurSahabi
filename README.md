@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-* MSc in Statistics & Econometrics
-* Focus on Financial Time Series & Machine Learning
-* Building distributed data pipelines with Spark
-* Developing ML models for financial prediction
+- MSc in Statistics & Econometrics  
+- Focus on Financial Time Series, Panel Data and Machine Learning  
+- Building distributed data pipelines with Spark  
+- Developing ML models for financial prediction
 
 ---
 
