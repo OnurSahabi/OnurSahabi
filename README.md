@@ -27,9 +27,11 @@
 
 ## 📊 Current Focus
 
-* Financial Machine Learning
-* Market Structure & Clustering
-* Return Prediction Models
+- Financial Machine Learning and Return Prediction  
+- Time Series Modeling (ARIMA, GARCH) and Panel Econometrics  
+- Market Structure Analysis using Clustering (GMM, PCA, Network)  
+- Distributed Data Pipelines (Spark, PostgreSQL, Docker)  
+- Portfolio Optimization and Risk Modeling  
 
 ---
 
@@ -39,12 +41,11 @@
 
 End-to-end financial data pipeline and machine learning system.
 
-### 🚀 portfolio.optimization
+Modules:
 
-- Portfolio optimization (Max Sharpe, Minimum Variance)  
-- Efficient frontier construction using quadratic programming  
-- Computation of portfolio metrics (Sharpe, Treynor, Beta, Risk)  
-- Implemented with quadprog and CVXR  
+Market Clustering → GMM, Network Analysis
+Return Prediction → RF, XGBoost, Monte Carlo
+Data Engineering → Spark, PostgreSQL, Docker
 
 ---
 
@@ -52,9 +53,10 @@ End-to-end financial data pipeline and machine learning system.
 
 ### 🚀 portfolio.optimization
 
-* Portfolio optimization (Max Sharpe, Minimum Variance)
-* Built with quadprog and CVXR
-* Focus on numerical stability
+- Portfolio optimization (Max Sharpe, Minimum Variance)  
+- Efficient frontier construction using quadratic programming  
+- Computation of portfolio metrics (Sharpe, Treynor, Beta, Risk)  
+- Implemented with quadprog and CVXR  
 
 ### ⏳ timeless
 
